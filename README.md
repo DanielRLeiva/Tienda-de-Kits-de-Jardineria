@@ -31,7 +31,7 @@ Bienvenido al repositorio del proyecto **Tienda de Kits de Jardinería para Prin
 
 ## 🖼️ Imagen Representativa
 
-![Kits de Jardinería](https://www.example.com/imagen-kits.jpg)
+![Kits de Jardinería](bonsai_arce.webp)
 
 ---
 
