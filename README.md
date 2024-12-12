@@ -39,9 +39,9 @@ Bienvenido al repositorio del proyecto **Tienda de Kits de Jardinería para Prin
 
 | Kit                     | Nivel de Dificultad | Precio    |
 |-------------------------|---------------------|-----------|
-| Kit de Hierbas Aromáticas | Fácil               | $25.00 USD |
-| Kit de Flores de Temporada | Intermedio         | $35.00 USD |
-| Kit de Huerto Urbano      | Avanzado           | $50.00 USD |
+| Kit de Hierbas Aromáticas | Fácil               | 19.99 € |
+| Kit de Flores de Temporada | Intermedio         | 39.99 € |
+| Kit de Huerto Urbano      | Avanzado           | 74.99 € |
 
 ---
 
